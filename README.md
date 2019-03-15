@@ -6,3 +6,4 @@
 ### Results - Predicting Stocks using LightGBM
 * January 2019 (first half) - Top 11%, 304th.
 * January 2019 (second half) - Top 19%, 530th.
+* February 2019 (first half) - Top 16%, 449th.
