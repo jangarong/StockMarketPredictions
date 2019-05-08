@@ -8,4 +8,5 @@
 * January 2019 (second half) - Top 19%, 530th.
 * February 2019 (first half) - Top 16%, 449th.
 * February 2019 (second half) - Top 18%, 522nd.
-* March 2019 - Top 21%, 605th
+* March 2019 - Top 21%, 605th.
+* April 2019 (first half) - Top 21%, 613th.
