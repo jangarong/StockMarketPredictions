@@ -9,4 +9,4 @@
 * March 2019 - Top 21%, 605th.
 * April 2019 - Top 20%, 571th.
 * May 2019 - Top 12%, 342nd.
-* June 2019 - Top 21%, 608th.
+* June 2019 - Top 22%, 622nd.
